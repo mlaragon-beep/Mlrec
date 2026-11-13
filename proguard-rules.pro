@@ -1,2 +1,0 @@
--keepclassmembers class com.framelock.recorder.** { *; }
--dontwarn android.os.SystemProperties
